@@ -103,7 +103,7 @@ AI Developer | Aspiring Data Scientist <br>
 ## 🔗 Contact & Repository
 
 - 📧 Email: [shreyash261020@gmail.com](mailto:shreyash261020@gmail.com)
-- 🧑‍💻 GitHub Repository: [Dynamic Pricing Engine]()
+- 🧑‍💻 GitHub Repository: [Dynamic Pricing Engine](https://github.com/mrkshreyash/dynamic-pricing-engine.git)
 
 ---
 
